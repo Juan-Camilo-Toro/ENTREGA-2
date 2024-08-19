@@ -1,0 +1,14 @@
+{
+  "name": "etapa_1",
+  "version": "1.0.0",
+  "description": "Etapa 1 para la asignatura DEVOPS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Camilo Toro - Carlos Camacho",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
